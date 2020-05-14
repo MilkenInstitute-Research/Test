@@ -10,6 +10,14 @@ This interactive map allows users to explore health, demographic, and socio-econ
 
 <iframe src="https://public.tableau.com/views/May11Map/Map?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe>
 
+<H2>Most Affected Communities in Terms of Population Adjusted Death Rate </H2>
+These 100 counties make up about 9% of the population and account for 50% of all COVID-19 deaths and 40% of all confirmed and suspected cases. Controlling for the population size allows us to compare and contrast counties based on the other dimensions (health, social, demographic, economic, etc).
+
+<iframe src="https://public.tableau.com/views/KeyHealthSocialCharacterisitcsofAffectedCommunities/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe>
+
+<H2>Key Health & Social Characteristics of Affected Communities </H2>
+<iframe src="https://public.tableau.com/views/KeyHealthSocialCharacterisitcsofAffectedCommunities/Dashboard2?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe>
+
 
 
 
