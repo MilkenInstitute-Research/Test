@@ -1,4 +1,4 @@
-<H1>Milken Institute Research Department </H1>
+<H1><b>Milken Institute Research Department <b></H1>
 Highlighting the interaction among health, demographic, and socio-economic features in communities provides a broader perspective on their potential vulnerability to health threats. It is also the starting point for targeted policy solutions. <Br>
   
 <H2> COVID-19 Community Profiles </H2>
