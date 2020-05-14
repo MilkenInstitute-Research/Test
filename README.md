@@ -1,8 +1,6 @@
 <H1> COVID-19 Community Profiles </H1>
-<H2>Milken Institute Research Department 
-
-Created by Ken Sagynbekov & Brittney Butler 
-
+<H2>Milken Institute Research Department <br>
+Created by Ken Sagynbekov & Brittney Butler <br> 
 research@milkeninstitute.org </H2>
 
 ### test
