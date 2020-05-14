@@ -6,7 +6,7 @@ Created by Ken Sagynbekov & Brittney Butler <br>
 We believe highlighting the interaction among health, demographic, and socio-economic features in communities provides a broader perspective on their potential vulnerability to health threats. It is also the starting point for targeted policy solutions. <Br>
   
   
-<H2>US Countries </H2> 
+<H2>US Counties </H2> 
 
 This interactive map allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. The intensity of underlying health conditions are shown in contrasting colors and the COVID-19 cases and mortality numbers are shown in gray bubbles. The average values for all counties are provided in the parentheses. 
 
