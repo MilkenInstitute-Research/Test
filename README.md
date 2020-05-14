@@ -1,7 +1,7 @@
 <H1><b>Milken Institute Research Department </b></H1>
 Highlighting the interaction among health, demographic, and socio-economic features in communities provides a broader perspective on their potential vulnerability to health threats. It is also the starting point for targeted policy solutions. <Br>
   
-<H2> COVID-19 Community Profiles </H2>
+<H2><b> COVID-19 Community Profiles</b> </H2>
 Created by Ken Sagynbekov & Brittney Butler <br> 
 <a href="mailto:research@milkeninstitute.org"> research@milkeninstitute.org </a><br> 
   
