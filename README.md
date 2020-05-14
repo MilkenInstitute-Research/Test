@@ -1,10 +1,10 @@
-<H1> COVID-19 Community Profiles </H1>
-Milken Institute Research Department <br>
+
+<H1>Milken Institute Research Department </H1><br>
+We believe highlighting the interaction among health, demographic, and socio-economic features in communities provides a broader perspective on their potential vulnerability to health threats. It is also the starting point for targeted policy solutions. <Br>
+
+<H1> COVID-19 Community Profiles </H1><br>
 Created by Ken Sagynbekov & Brittney Butler <br> 
 <a href="mailto:research@milkeninstitute.org"> research@milkeninstitute.org </a><br> 
-
-We believe highlighting the interaction among health, demographic, and socio-economic features in communities provides a broader perspective on their potential vulnerability to health threats. It is also the starting point for targeted policy solutions. <Br>
-  
   
 <H2>US Counties </H2> 
 
